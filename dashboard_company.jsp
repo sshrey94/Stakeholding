@@ -11,7 +11,7 @@
 		<a class="navbar-brand" href=".\index.jsp" style="padding: 0; margin: 0; margin-right: 10px;">
 			<img src=".\res\meridia_logo.png" alt="Logo" style="max-height: 40px;">
 		</a>
-		<ul class="navbar-nav ml-auto" >
+		<ul class="navbar-nav ml-auto">
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown" style="cursor: pointer;">Username</a>
 				<div class="dropdown-menu">
@@ -21,7 +21,7 @@
 			</li>
 		</ul>
 	</nav>
-	<div class="card ml-auto mr-auto" style="max-height: 90vh; max-width: 80vw; height: 90vh; width: 80vw; margin-top: 60px; padding: 40px;">
+	<div class="card ml-auto mr-auto" style="max-height: 90vh; max-width: 80vw; height: 90vh; width: 80vw; margin-top: 60px; padding: 40px; color: rgb(249,89,42);">
 		<div>
 			<div style="max-width: 40vw; float: left; margin-left: 20px;">
 				<font style="font-size: 50px;">Company Name</font>
